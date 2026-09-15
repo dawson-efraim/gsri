@@ -1,0 +1,1 @@
+# GSRI - Global Systemic Risk Intelligence

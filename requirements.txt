@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+requests>=2.30
+scikit-learn>=1.3
+scipy>=1.11
+statsmodels>=0.14
+plotly>=5.18
+geopandas>=0.14

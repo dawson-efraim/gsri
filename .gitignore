@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/gsri.db
+data/cache/
+*.db
