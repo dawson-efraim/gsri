@@ -15,15 +15,15 @@ A production-quality **real-time global systemic risk monitoring platform** that
 
 | GSRI Gauge | Category Risk Breakdown |
 |---|---|
-| ![GSRI Gauge](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/gsri_gauge.png) | ![Category Breakdown](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/category_breakdown.png) |
+| [![GSRI Gauge](assets/gsri_gauge.png)](assets/gsri_gauge.png) | [![Category Breakdown](assets/category_breakdown.png)](assets/category_breakdown.png) |
 
 | Trend & Momentum | Scenario Simulator |
 |---|---|
-| ![Trend Momentum](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/trend_momentum.png) | ![Scenario Sim](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/scenario_sim.png) |
+| [![Trend Momentum](assets/trend_momentum.png)](assets/trend_momentum.png) | [![Scenario Sim](assets/scenario_sim.png)](assets/scenario_sim.png) |
 
 | Data Freshness Monitor | Active Alerts |
 |---|---|
-| ![Data Freshness](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/data_freshness.png) | ![Alerts](https://raw.githubusercontent.com/dawson-efraim/gsri/main/assets/alerts.png) |
+| [![Data Freshness](assets/data_freshness.png)](assets/data_freshness.png) | [![Alerts](assets/alerts.png)](assets/alerts.png) |
 
 ---
 
@@ -179,7 +179,7 @@ All steps reproducible: every run writes a timestamped row to `risk_calculations
 - [ ] Add biodiversity, climate-extreme, and socio-political indicators
 - [ ] Hourly GitHub Actions scheduler for true real-time updates
 - [ ] Docker + Postgres for multi-user / production deployment
-- [ ] CI/CD with automated ingestion & calculation tests
+- [ ] CI/CD with automated tests for ingestion & calculation
 - [ ] Ensemble forecasting (LSTM, Prophet) with uncertainty bands
 - [ ] User auth + per-user alert subscriptions
 - [ ] Interactive choropleth with real country-level data
